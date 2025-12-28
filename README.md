@@ -61,6 +61,7 @@ Run the Phase 1 scraper to fetch the oldest articles from the blog.
 node scraper/phase1.js
 ```
 *Check `http://localhost:5173` -> "Original Articles" tab to see the data.*
+<img width="1861" height="843" alt="image" src="https://github.com/user-attachments/assets/548af1e6-fa64-4af4-a489-3a17e39ef9cb" />
 
 ### Step 2: AI Enhancement (Phase 2)
 Run the processor script. This searches the web, reads related content, and uses Gemini to upgrade the articles.
@@ -69,6 +70,7 @@ Run the processor script. This searches the web, reads related content, and uses
 node processor/phase2.js
 ```
 *Check `http://localhost:5173` -> "AI Enhanced" tab to see the new versions.*
+<img width="1846" height="838" alt="image" src="https://github.com/user-attachments/assets/d8193131-3298-4171-8831-a146c491ae94" />
 
 ## 📂 Project Structure
 
