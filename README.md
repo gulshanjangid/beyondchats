@@ -2,7 +2,7 @@
 
 This repository contains the complete solution for the Full Stack Web Developer Intern assignment at BeyondChats. 
 It implements a scraping engine, a backend API, an AI-powered content processor (Gemini), and a responsive React frontend.
-
+ 
 ## 🌟 Features
 
 - **Phase 1: Deep Scraper**: scrapes articles from `beyondchats.com/blogs/` using Puppeteer.
